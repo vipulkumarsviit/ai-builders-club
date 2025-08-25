@@ -36,3 +36,9 @@ ai-builders-club/
 ├── resources/             # Curated links, docs, cheat sheets
 └── projects/              # Mini AI integration projects
 ```
+---
+Weekly Schedule
+| Week | Topic | Focus |
+|------|-------|-------|
+| [1](weekly-topics/week-01/README.md)    | Introduction | Clarity, motivation, mindset |
+---
