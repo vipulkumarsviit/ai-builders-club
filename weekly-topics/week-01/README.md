@@ -19,6 +19,7 @@ Becoming an AI Engineer lets you **bridge technology and products**, work with *
 | Day       | Topic / Focus | Notes |
 |-----------|---------------|-------|
 | **[Day 1](day-01/README.md)** | What / Who is an AI Engineer? | Role, responsibilities, difference from ML Engineers/Researchers, career perspective |
+| **[Day 2](day-02/README.md)** | Impact of AI Engineering on Product Development | Key impacts, big picture, mindset shift and Real-World Examples |
 ---
 
 ## ✅ Goals for Week 1
