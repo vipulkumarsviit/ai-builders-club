@@ -40,5 +40,5 @@ ai-builders-club/
 Weekly Schedule
 | Week | Topic | Focus |
 |------|-------|-------|
-| [1](weekly-topics/week-01/README.md)    | Introduction | Clarity, motivation, mindset |
+| [Week 1](weekly-topics/week-01/README.md)    | Introduction | Clarity, motivation, mindset |
 ---

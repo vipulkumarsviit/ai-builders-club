@@ -37,3 +37,7 @@ Becoming an AI Engineer lets you **bridge technology and products**, work with *
 - [AI Engineer Roadmap](https://roadmap.sh/ai-engineer)
 - [AI Engineering: The Handbook](https://www.freecodecamp.org/news/the-ai-engineering-handbook-how-to-start-a-career-and-excel-as-an-ai-engineer/)
 ---
+
+## 🌟 Navigation
+
+[Root](../../../README.md) > [Week 1](README.md) > [Day 1](day-01/README.md)

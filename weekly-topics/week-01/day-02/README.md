@@ -101,4 +101,7 @@ Take a moment and think:
 * [AI Engineer Roadmap](https://www.techmagic.co/blog/ai-product-development)
 
 ---
-Previous: [Day 1 — What / Who is an AI Engineer?](../day-01/README.md)
+
+## 🌟 Navigation
+
+[Root](../../../README.md) > [Week 1](../README.md) > [Day 2](README.md) > [Day 3](../day-03/README.md)

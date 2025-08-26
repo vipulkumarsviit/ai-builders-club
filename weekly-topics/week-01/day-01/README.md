@@ -69,3 +69,8 @@ Take a few minutes and write down:
 - Recognize **the difference from AI Researchers / ML Engineers**  
 - See **why this career is in demand**  
 - Start **thinking about AI-powered ideas**
+---
+
+## 🌟 Navigation
+
+[Root](../../../README.md) > [Week 1](../README.md) > [Day 1](README.md) > [Day 2](../day-02/README.md)
